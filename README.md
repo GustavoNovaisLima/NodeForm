@@ -1,4 +1,4 @@
-**Projeto Formulário Interativo**
+**PROJETO FORMULARIO INTERATIVO**
 
 Este projeto foi desenvolvido para praticar a criação de formulários dinâmicos e funcionais na web. Ele permite coleta, validação e envio de dados de forma simples e eficiente, com foco em boa experiência do usuário e integração com o backend.
 
